@@ -1,0 +1,34 @@
+{
+  "name": "sui-token-demo",
+  "version": "1.0.0",
+  "description": "Sui USDT Token with Merkle Tree Whitelist",
+  "main": "index.js",
+  "scripts": {
+    "test": "sui move test",
+    "build": "sui move build",
+    "deploy": "sui client publish --gas-budget 100000000 --skip-fetch-latest-git-deps",
+    "generate-merkle": "ts-node scripts/generate_merkle_root.ts"
+  },
+  "keywords": [
+    "sui",
+    "move",
+    "token",
+    "merkle-tree",
+    "whitelist"
+  ],
+  "author": "Simon<blockman1024@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@mysten/sui.js": "^0.50.0",
+    "@noble/hashes": "^1.8.0",
+    "ethers": "^6.8.0",
+    "keccak": "^3.0.2",
+    "merkletreejs": "^0.3.11"
+  },
+  "devDependencies": {
+    "@types/node": "^20.8.0",
+    "ts-node": "^10.9.1",
+    "ts-node-dev": "^2.0.0",
+    "typescript": "^5.2.2"
+  }
+}
