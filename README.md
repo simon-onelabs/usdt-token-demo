@@ -1,4 +1,4 @@
-# Sui USDT Token Demo
+# Sui Token Demo
 
 一个基于 Sui Move 的 USDT 代币DEMO，集成了 Merkle Tree 白名单验证功能。
 
