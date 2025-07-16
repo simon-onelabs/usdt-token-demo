@@ -26,9 +26,9 @@ sui-token-demo/
 ## 📋 已部署合约信息
 
 **网络**: Sui Devnet
-- **Package ID**: `0xab93dcf01d5ab66e17cc46b654c4727c232e7b18cb189d8ec66645e8e0915c26`
-- **TokenConfig**: `0x49999a2b85c7fb6e6b8ab2b2238f30095d5d0dfff8f5e5d7d3718e1896bd865b`
-- **TreasuryCap**: `0x8c7a59997246830701334f7d23a0aae0268eb3e99ae34e8addae3f5f60fe43e6`
+- **Package ID**: [0xab93dcf01d5ab66e17cc46b654c4727c232e7b18cb189d8ec66645e8e0915c26](https://suiscan.xyz/devnet/object/0xab93dcf01d5ab66e17cc46b654c4727c232e7b18cb189d8ec66645e8e0915c26/tx-blocks)
+- **TokenConfig**: [0x49999a2b85c7fb6e6b8ab2b2238f30095d5d0dfff8f5e5d7d3718e1896bd865b](https://suiscan.xyz/devnet/object/0x49999a2b85c7fb6e6b8ab2b2238f30095d5d0dfff8f5e5d7d3718e1896bd865b/tx-blocks)
+- **TreasuryCap**: [0x8c7a59997246830701334f7d23a0aae0268eb3e99ae34e8addae3f5f60fe43e6](https://suiscan.xyz/devnet/object/0x8c7a59997246830701334f7d23a0aae0268eb3e99ae34e8addae3f5f60fe43e6/tx-blocks)
 
 ## 🧪 测试状态
 
